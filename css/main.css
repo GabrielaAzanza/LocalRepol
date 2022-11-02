@@ -1,0 +1,26 @@
+*{font-family:'Courier New', Courier, monospace;text-align: start;color: blue;}    
+    h2 {color: red;}  
+    h6{font-size: xx-large;
+    background-color: yellow;}
+    span{background-color: antiquewhite;}
+    .primero{color: teal;}
+    #id{ color:blueviolet;
+    text-align: center;}
+    
+    input[type="date"]{
+        border: 5em;
+        color: black;
+        background-color: blue;
+
+    }
+    a[href*="http://estudiante.com"]{
+       color: red 
+    }
+    h5:hover{
+        background: #581c87;
+    }
+    h6:first-letter{
+        text-transform: uppercase;
+        color: black;
+        font-size: 1em;
+    }
